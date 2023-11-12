@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HfIQK8WXIu7F5xKGtU5hClsD65cfBckqusZDDarEk2I=",
+  "Source": "DaDataTestService",
+  "BasePath": "_content/DaDataTestService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
